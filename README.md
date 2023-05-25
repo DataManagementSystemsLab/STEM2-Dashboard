@@ -1,3 +1,5 @@
+
+The following steps are mainly for Windows
 - Install Python 
 - Install pip
     ```console
